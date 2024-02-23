@@ -1,0 +1,38 @@
+//CREATE YOUR OWN RESUME DATA IN JSON FORMAT
+{
+    "basics": {
+        "name": " Ashwin Shivaa D",
+        "Course": "MERN FSD",
+        "contact":"938415193",
+        "email": "ashwinshivaae@example.com",
+          "linkedin": "AshwinShivaaD",
+          "github": "https://github.com/AshwinShivaa"
+      },
+      "education": [
+        {
+          "degree": "B.E",
+          "College": "Sri Ramakrishna Engineering College",
+          "year": "2022"
+        }
+    ],
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "MySQL",
+            "PostgreSQL"
+        ],
+        "experience": [
+            {
+              "position": "PA",
+              "company": "CTS",
+              "location": "COIMBATORE",
+              "start_date": "2022",
+              "end_date": "Present"
+            }
+        ]
+    }
